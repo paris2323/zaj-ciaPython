@@ -1,0 +1,8 @@
+# 3 boki trójki określ czy uda się go narysować
+#dł. jednego boku musi być < dł. sumy dwóch pozostałych
+# + czy to równoboczny
+# + czy to równoramienny
+
+a = int(input('podaj bok a:'))
+b = int(input('podaj bok b:'))
+c = int(input('podaj bok c:'))

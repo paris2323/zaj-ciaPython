@@ -1,0 +1,1 @@
+plik.read() # idź do końca pliku
