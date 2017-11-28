@@ -34,3 +34,26 @@ def czy_w_zakresie(liczba, zakres=range(101)):
 
 for i in liczby:
     czy_w_zakresie(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
