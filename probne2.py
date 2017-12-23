@@ -36,7 +36,11 @@ for i in liczby:
     czy_w_zakresie(i)
 
 
+def mnozenie(a,b,c=2):
+    wynik = a*b*c
+    return wynik
 
+print(mnozenie(2,12))
 
 
 

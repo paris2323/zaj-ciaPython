@@ -17,5 +17,5 @@ def main():
     else:
         print(f"Nieprawidłowo {imie} != {odwr_imie}")
 
-if __name__ == '__main__':
+if __name__ == '__main__':   # 2017_11_23_17_40_17:  41 minuta
     main()
